@@ -1,0 +1,23 @@
+{
+  "name": "az-terwat-behance-entries",
+  "version": "1.0.0",
+  "description": "API to pull Behance entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AplUSAndmINUS/az-terwat-behance-entries.git"
+  },
+  "author": "Terence Waters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AplUSAndmINUS/az-terwat-behance-entries/issues"
+  },
+  "homepage": "https://github.com/AplUSAndmINUS/az-terwat-behance-entries#readme",
+  "dependencies": {
+    "azure-storage": "^2.10.7",
+    "node-fetch": "^3.3.0"
+  }
+}
